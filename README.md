@@ -6,11 +6,6 @@ The model predicts the **probability of default**, converts it into a **credit s
 
 ---
 
-# 🚀 Live Streamlit App
-
-Try the live application here:
-
-👉 https://ml-driven-credit--risk-model-ulxhcvhr4uhpbtn7fws46h.streamlit.app/
 
 ---
 
@@ -157,9 +152,7 @@ Rating: Excellent
 
 The application is deployed using **Streamlit Cloud**.
 
-Live App:
 
-👉 https://ml-driven-credit--risk-model-ulxhcvhr4uhpbtn7fws46h.streamlit.app/
 
 ---
 
